@@ -1,0 +1,24 @@
+//for assignment of DAO governance token voting power; inspired by [Erich Dylus]( https://github.com/ErichDylus) and [Sarah Brennan](https://github.com/SHBrennan)
+
+**Revokable Assignment of Token Rights**
+
+***Last updated: July 12, 2021***
+
+I control the private key for the externally owned account[s]:
+
+[PUBLIC KEY ADDRESS[ES]] ([collectively,] the “Delegator[s]”), 
+
+[The Delegator[s]] [is/are] the holder[s] of [DAO GOV TOKENS]. By signing transaction [tx], the [The Delegator] intend[s] to assign to [The Delegatee] all powers and rights of [DAO GOV TOKENS] tokens, including proposing, voting, abstaining, or engaging in related discourse or otherwise, in accordance with its applicable parameters and guidelines in the governance contract for [DAO]. This powers and rights included in this assignment do not include the further transfer, disposition, or sale of the [DAO GOV TOKENS] tokens themselves.
+
+
+[The Delegator[s]] [is/are] aware that this assignment of rights and powers is revokable at any time by the [The Delegator[s]] through interaction with the Ethereum contract [Delegation Contract Address]. 
+
+I understand that [The Delegatee] is not required to consult, advise, or otherwise communicate their intentions to the utilize any of the above described powers with [The Delegator[s]].
+
+While the [DAO GOV TOKENS] tokens are assigned by this transaction, [The Delegator[s]] acknowledge consent to the [the Delegatee] may 
+
+The [Delegator[s]] have read all disclosure materials provided by [The Delagatee], insofar as they may exist or have otherwise waived their ability to do so prior to signing the transaction, [tx].
+
+I am aware that the Delegatee may update or provide additional disclosure information from time to time. I waive any right to be notified of such updates and am acknowledge it is [The Delegator[s]] sole responsibility to remain aware of any such updated disclosure information.
+
+[The Delegator[s]] waive any right or claim against the [The Delegatee] while the powers and rights of the [DAO GOV TOKENS] tokens are assigned to [The Delegatee] by this transaction.
